@@ -1,4 +1,4 @@
-###Prompt para o Assistente de Deep Research
+### Prompt para o Assistente de Deep Research
 
 ## PAPEL E POSTURA
 Aja como um especialista em Design de Serviços Públicos, Mapeamento de Ecossistemas e Pesquisa Governamental (Deep Research).
