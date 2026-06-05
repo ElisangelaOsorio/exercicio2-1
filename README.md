@@ -1,4 +1,3 @@
-# .autograde-exercise 2.1
 # Exercício 2.1 — Mapa de Atores da Jornada de um Serviço Público
 
 **Aluno:** Elisangela Andrade Rocha Osorio
