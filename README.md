@@ -1,11 +1,10 @@
 # Exercício 2.1 — Mapa de Atores da Jornada de um Serviço Público
 
 **Aluno:** Elisangela Andrade Rocha Osorio
-**Disciplina:** IDP-TD 2026
 
-Mapeamento de atores de um serviço público usando três técnicas complementares:
-meta-prompt, pesquisa adversarial iterada entre dois assistentes de IA, e
-destilação interativa via sessão `/grill-me`.
+**Disciplina:** IDP-TD 2026 · Exercício: 2.1
+
+Serviço analisado: Mapeamento de atores de um serviço público usando três técnicas complementares: meta-prompt, pesquisa adversarial iterada entre dois assistentes de IA, e destilação interativa via sessão `/grill-me`.
 
 ## Artefatos
 
